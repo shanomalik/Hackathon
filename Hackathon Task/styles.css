@@ -1,0 +1,252 @@
+header#navbar{
+    z-index: 999;
+}
+/* styles.css */
+
+/* Button styles */
+.button-style {
+    border-radius: 15px;
+    width: 180px;
+    height: 35px;
+    background-color: #FDECEC;
+    border: none;
+    color: #F55556;
+}
+
+/* Heading styles */
+.heading-style {
+    width: fit-content;
+    font-size: 62px;
+    font-weight: 500;
+    line-height: 80px;
+}
+
+/* Paragraph styles */
+.paragraph-style {
+    width: fit-content;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+/* Try Now button styles */
+.try-now-button {
+    border: none;
+    background-color: #F86061;
+    color: white;
+    width: 110px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+/* Image styles */
+.image-style {
+    width:100px;
+    height:90px;
+    margin-left:15px;
+    margin-top: 15px;
+}
+.image-style-person{
+    float: right;
+    height: 450px;
+    width: 550px;
+}
+
+/* Background color for the row */
+.custom-background {
+    background-color: #FEF5F5;
+  }
+  
+  /* Paragraph style */
+  .custom-paragraph {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #F54748;
+  }
+  
+  /* Heading style */
+  .custom-heading {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+  }
+  
+  /* Card style */
+  .custom-card {
+    border: none;
+  }
+  
+  /* Card image style */
+  .custom-image {
+    height: 70px;
+    width: 70px;
+    align-self: center;
+    margin-top: 30px;
+  }
+  
+  /* Card title style */
+  .custom-card-title {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+  }
+  
+  /* Card text style */
+  .custom-card-text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+  }
+
+/* Centered text */
+.centered-text {
+    text-align: center;
+}
+
+/* Large text with color */
+.large-text {
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 58px;
+}
+
+/* Textarea styles */
+.textarea-style {
+    background-color: #fdecec;
+    border: none;
+    border-radius: 10px;
+}
+
+/* Medium text */
+.medium-text {
+    font-weight: 300;
+    font-size: 23px;
+    line-height: 16px;
+}
+.container-style{
+  align-content: center;
+}
+
+/* Input styles */
+.input-style {
+  background-color: #fdecec;
+  border: none;
+  border-radius: 17px;
+  
+}
+.divblackborder{
+  border: 1px black solid;
+  border-radius: 50px; 
+  width: max-content;
+}
+
+/* Paragraph styles */
+.paragraph-style1 {
+  font-weight: 300;
+  font-size: 23px;
+  margin-left: 40%;
+}
+
+/* Image styles */
+.image-style1 {
+  float: left;
+  max-width: 200px;
+  height: auto;
+}
+
+/* Form group styles */
+.form-group {
+  padding: 5px; /* Adjust as needed */
+}
+
+/* Label styles */
+.label-style {
+  font-weight: bold;
+}
+
+/* Column styles */
+.column-style {
+  width: fit-content;
+ margin-right:20px;
+ 
+}
+
+
+
+/* Input styles */
+.input-style {
+  background-color: #fdecec;
+  border: none;
+  width: 180px;
+  border-radius: 17px;
+}
+
+/* Label styles */
+.label-style {
+  font-weight: 100;
+
+}
+
+/* Container styles */
+.container-style1 {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 30px;
+}
+
+/* Button styles */
+.button-style1 {
+  background-color: #F86061;
+  width: 150px;
+  height: 50px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+}
+
+/* Image styles */
+.image-style2 {
+  height: 200px;
+  width: 200px;
+  margin-left: 100px;
+}
+
+/* styles.css */
+
+/* Styles for the main container */
+.main-container {
+  text-align: center;
+}
+
+/* Styles for the heading */
+.heading-style1 {
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 58px;
+  color: #F55253;
+}
+
+/* Styles for the paragraph */
+.paragraph-style2 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+ 
+}
+
+/* Styles for the download button */
+.download-button {
+  background-color: #F86061;
+  width: 150px;
+  height: 50px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  
+}
+.picdiv{
+ width: max-content;
+}
